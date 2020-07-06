@@ -6,6 +6,8 @@
 		"thumbnail": "https://drive.google.com/uc?id=11YycxgSAG60t5z_pi8GZCWC_jkC4hrOs",
 		"collections": "GRADIENT|ABSTRACT",
 		"downloadable": true,
+		"size": ,
+		"dimensions": "",
 		"copyright": "PashaPuma Design"
 	},
 	{
@@ -15,33 +17,8 @@
 		"thumbnail": "https://drive.google.com/uc?id=1l2MJWzLtmCIy8gMjpauVQOVJ6Dx9CHds",
 		"collections": "Landscapes,Art,Material Design",
 		"downloadable": true,
-		"copyright": "PashaPuma Design"
-	},
-	{
-		"name": "Pixel 4 Outline 2",
-		"author": "Jahir Fiquitiva",
-		"url": "https://drive.google.com/uc?id=1MpQaPl6Dxsy4PYzDoChQQ7cPQnFpKWCf",
-		"thumbnail": "https://drive.google.com/uc?id=1MpQaPl6Dxsy4PYzDoChQQ7cPQnFpKWCf",
-		"collections": "Landscapes,Art,Material Design",
-		"downloadable": true,
-		"copyright": "PashaPuma Design"
-	},
-	{
-		"name": "Pixel 4 Outline 2 Dark",
-		"author": "Jahir Fiquitiva",
-		"url": "https://drive.google.com/uc?id=1AUrz9_uVvAogNFQHX9VrJTDYiEeNnUTo",
-		"thumbnail": "https://drive.google.com/uc?id=1AUrz9_uVvAogNFQHX9VrJTDYiEeNnUTo",
-		"collections": "Landscapes,Art,Material Design",
-		"downloadable": true,
-		"copyright": "PashaPuma Design"
-	},
-	{
-		"name": "Cloud",
-		"author": "Jahir Fiquitiva",
-		"url": "https://drive.google.com/uc?id=14XbY3XSpJoqG2sGHLDXp_m2nPaxNc5Sx",
-		"thumbnail": "https://drive.google.com/uc?id=14XbY3XSpJoqG2sGHLDXp_m2nPaxNc5Sx",
-		"collections": "Minimal,Material Design",
-		"downloadable": true,
+		"size": ,
+		"dimensions": "",
 		"copyright": "PashaPuma Design"
 	}
 ]
