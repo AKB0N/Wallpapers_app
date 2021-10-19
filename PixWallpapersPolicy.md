@@ -1,5 +1,5 @@
 # Privacy Policy
-PashaPuma Design built the Pix Wallpapers App app as free app with free wallpapers, no ads. This SERVICE is provided by PashaPuma and is intended for use as is. The official version of Pix Wallpapers App is distributed only through the Play Store.
+PashaPuma Design built the Pix Wallpapers app as free app with free wallpapers, no ads. This SERVICE is provided by PashaPuma and is intended for use as is. The official version of Pix Wallpapers App is distributed only through the Play Store.
 
 This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
 
