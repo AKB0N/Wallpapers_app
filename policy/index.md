@@ -57,7 +57,7 @@ I may update our Privacy Policy from time to time. Thus, you are advised to revi
 
 This policy is effective as of 2021-10-19
 
-# Contact Us
+## Contact Us
 
 If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at pashapuma1@gmail.com.
 
