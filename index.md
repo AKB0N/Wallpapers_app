@@ -1,6 +1,6 @@
 ## Pix Wallpapers
 
- [Privacy Policy](https://pashapuma.github.io/Wallpapers_app/policy)  [Terms and Conditions](https://pashapuma.github.io/Wallpapers_app/policy)
+ [Privacy Policy](https://pashapuma.github.io/Wallpapers_app/policy)  [Terms and Conditions](https://pashapuma.github.io/Wallpapers_app/terms)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
